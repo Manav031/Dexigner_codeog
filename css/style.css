@@ -206,7 +206,7 @@ section {
     position: relative;
     font-size: 2.8rem;
     margin-bottom: 50px;
-    z-index: 10000;
+/*     z-index: 10000; */
 }
 .titles span {
     color: red;
